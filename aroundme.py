@@ -119,29 +119,17 @@ async def exit_operation(alice_request):
 #     return res
 
 
-# @dp.request_handler(state=States.AROUND_MORE, contains=['ещё', 'больше'])
-# async def handle_around_more_more(r: types.AliceRequest):
-#     user_id = r.session.user_id
-#     await dp.storage.set_state(user_id, States.AROUND_MORE)
-#     return r.response(
-#         ' '.join(
-#             shuffle(
-#                 f"Рядом с вами Оранжевый остров. ",
-#                 f"Памятник Карлу Марксу и Энгельсу. ",
-#                 f"Центр Октябрь. ",
-#                 f"Парк Аттракционов. ",
-#                 f"Общественный Туалет. ",
-#                 f"Вокруг вас много кафе. ",
-#                 f"Есть развлечения для детей и взрослых. ",
-#             ),
-#         ) + DETAILS(locals()),
-#     )
+@dp.request_handler(contains=['октябрь',])
+async def handle_about_oktyabr(r: types.AliceRequest):
+    return r.response(
+        """тут про оактябрь """ + DETAILS(locals()),
+    )
 
 
 @dp.request_handler(state=States.INIT, contains=['впереди', 'маршрут'])
 async def handle_ahead(r: types.AliceRequest):
     user_id = r.session.user_id
-    await dp.storage.set_state(user_id, States.AHEAD)
+    # await dp.storage.set_state(user_id, States.AHEAD)
     return r.response(
         (
             f"На вашем пути много интересного. "
@@ -182,7 +170,6 @@ async def handle_all_requests(r: types.AliceRequest):
                 shuffle(
                     f"Вокруг вас много кафе. ",
                     f"Есть развлечения для детей и взрослых. ",
-                    # f"Кинотеатр Октябрь. ",
                     f"Много памятников. ",
                     f"Прокат самокатов. ",
                 ),
@@ -216,7 +203,8 @@ async def handle_all_requests(r: types.AliceRequest):
                 ),
             ) + DETAILS(locals())
         )
-
+    print('status: ', state)
+    state = 'INIT'
     return r.response(f'sil <[200]> +оппа. что значит: {r.request.command}')
 
 
