@@ -1,0 +1,419 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Памятник Ленину",
+        "tags": "культура, памятники, история",
+        "story ": "Влади́мир Ильи́ч Ле́нин — российский революционер, крупный теоретик марксизма, советский политический и государственный деятель, создатель Российской социал-демократической рабочей партии, главный организатор и руководитель Октябрьской революции 1917 года в России"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587369441986084,
+          50.60469061234685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Памятник Карлу Марксу и Фридриху Энгелсу",
+        "tags": "культура, памятники, история",
+        "story": "Энгельс! немецкий политический деятель, философ, историк и предприниматель. немецкий философ, социолог, экономист, писатель, поэт, политический журналист, лингвист, общественный деятель, историк."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58918261528015,
+          50.60787042039112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Белгородская государственная универсальная научная библиотека ",
+        "tags": "культура, история, наука",
+        "story": "библиотека прошла славный исторический путь от маленькой библиотеки-читальни, созданной в уездном Белгороде в 1897 г., до одной из самых популярных и посещаемых библиотек города и"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.591092348098755,
+          50.608837257320374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Парк аттракционов",
+        "tags": "развлечения ",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58543825149536,
+          50.60764573009061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Памятник ",
+        "tags": " культура, памятники, история",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58018112182617,
+          50.61030109232188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Музей народной культуры",
+        "tags": "культура, история ",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5769624710083,
+          50.61136319525209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Городской дворец культуры",
+        "tags": "культура",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.583077907562256,
+          50.61028747546198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Бассейн дворца детского творчества",
+        "tags": "спорт",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.586564779281616,
+          50.612044017851915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Собор Николая Чудотворца Иоасафа",
+        "tags": "История, культура ",
+        "story": "Построен как кирпичный кладбищенский храм в 1799, расширен в XIX в. Здание типа восьмерик на четверике с протяженной трапезной и отдельно стоящей невысокой колокольней. Приделы Харалампиевский, Иоанна Печерского и Рождества Предтечи"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.59162878990173,
+          50.60519449347394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Сквер Пяточк+а",
+        "tags": "отдых",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.586618423461914,
+          50.60347174244407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Центр «Октябрь»",
+        "tags": "отдых, развлечения",
+        "story": "бывший кинотеатр «Октябрь» в котором разместился многофункциональный молодежно-культурный центр. "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.588284075260155,
+          50.60733082142431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "",
+        "tags": "",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.582369804382324,
+          50.61531182917907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Завод Энергомаш",
+        "tags": "история",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5695595741272,
+          50.60706016850801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "nema ": "парк имени Юрия Гагарина",
+        "tags": "отдых",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.57372236251831,
+          50.617054569066156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Церковь Покрова Пресвятой Богородицы",
+        "tags": "культура",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.57168388366699,
+          50.616047055443175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Центр молодёжных инициатив",
+        "tags": "развлечения ",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.574881076812744,
+          50.619477959391574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "туалет",
+        "tags": "туалет",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58838868141174,
+          50.60735975906535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Кафе, Алиса в стране чудес",
+        "tags": "отдых,кафе",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58724069595337,
+          50.60379859333717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "кофейня Али-баба",
+        "tags": "отдых,кафе",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.587616205215454,
+          50.60242989007102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "кофейня Флоренция",
+        "tags": "отдых",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58595323562622,
+          50.60139482435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Памятник Ленину в Белгороде восстановят",
+        "tags": "новости ",
+        "story": "По словам председателя облдумы Ольги Павловой, уже решается вопрос о заключении договора на его восстановление. Белгородцы общими усилиями собрали 974,8 тыс. рублей, хотя планировалось 1,8 млн рублей."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.58749818801879,
+          50.6047655139369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Как в Белгороде стартовал первый культурный хакатон",
+        "tags": " новости ",
+        "story": "Разработчики, дизайнеры и IT-специалисты проведут три дня, с 21 по 23 мая, на площадке культурного центра, чтобы создать проекты, которые смогут рассказать гостям и жителям Белгородской области о культурных и туристических объектах, "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.588077545166016,
+          50.60741422987086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "ME",
+        "tags": "ME",
+        "story": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.588120460510254,
+          50.60694441709996
+        ]
+      }
+    }
+  ]
+}
