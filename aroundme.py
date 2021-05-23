@@ -3,6 +3,7 @@ from aioalice import Dispatcher, get_new_configured_app, types
 from aioalice.utils.helper import Helper, HelperMode, Item
 from aioalice.dispatcher import MemoryStorage
 from aioalice.types import Button
+from places import POINTS
 
 import datetime
 import random
